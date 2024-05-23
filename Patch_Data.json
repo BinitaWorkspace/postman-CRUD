@@ -1,0 +1,8 @@
+[
+  {
+    "endpoint": "api/users/2",
+    "first_name": "Jenny",
+    "name": "Test Patch",
+    "job": "Patch Work"
+  }
+]
